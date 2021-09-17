@@ -3,7 +3,7 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:syncfusion_flutter_charts/charts.dart';
-import 'package:cwc/ProductDataModel.dart';
+import 'package:/CWC-12/ProductDataModel.dart';
 import 'package:flutter/services.dart' as rootBundle;
 import 'package:intl/intl.dart';
 import 'package:http/http.dart' as http;
